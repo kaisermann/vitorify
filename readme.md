@@ -3,7 +3,7 @@
 ### Recusando um freela
 
 ```
-Oi {{NOME}}!
+Oi *{{NOME}}*!
 
 Entendi, infelizmente não estou com janela de tempo disponível para realizar esse serviço
 e não possuo nenhum profissional de confiança disponível para indicação no momento.
