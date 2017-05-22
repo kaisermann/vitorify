@@ -3,7 +3,7 @@
 ### Recusando um freela
 
 ```
-Oi FULANO!
+Oi {{NOME}}!
 
 Entendi, infelizmente não estou com janela de tempo disponível para realizar esse serviço
 e não possuo nenhum profissional de confiança disponível para indicação no momento.
@@ -11,5 +11,4 @@ De todo modo, vou ficar atento ao mercado e, caso surja algum profissional dispo
 passarei seu email para contato ok? 
 
 Gostaria de poder ajudar mais! Abraços,
-
 ```
