@@ -1,7 +1,2 @@
-.*
-parcerias
-ideias-de-app
-novas-redes-sociais
-novo-facebook
-uber-da-*
-tinder-da-*
+node_modules
+*.log
